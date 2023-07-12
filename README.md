@@ -1,4 +1,5 @@
-### Hi there 👋
+### Claire Raney
+Duke Class of 2026
 
 <!--
 **claireraney/claireraney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
